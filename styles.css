@@ -22,7 +22,12 @@ form {
     justify-content: center;
     align-items: center;
 }
-
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
 
 #notice {
     margin-top: 10px;
